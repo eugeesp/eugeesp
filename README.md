@@ -9,7 +9,7 @@ Data Analyst specialized in business intelligence, automation, and data-driven d
 
 ## 💼 Professional Focus
 - **Data Analysis:** SQL, Excel, Power BI, Tableau
-- **Automation:** Google Apps Script, Python
+- **Automation:** Google Apps Script
 - **Domains:** Financial markets, e-commerce, retail operations
 
 ## 🚀 Featured Projects

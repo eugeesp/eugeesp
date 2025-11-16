@@ -13,11 +13,7 @@ I specialize in **business intelligence**, **data visualization**, and **process
 - Power BI (DAX, star schema modeling, interactive dashboards)
 - Tableau (multi-layer visualizations, drill-down analysis)
 - Excel/Google Sheets (advanced formulas, pivot tables, Apps Script)
-
-**Automation & Tools**
 - Google Apps Script
-- Git & GitHub
-- Jira, Notion, Hubspot (Basic)
 
 **Domain Expertise**
 - Financial markets (market structure, liquidity, volatility analysis)

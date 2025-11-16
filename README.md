@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Eugenio 👋
 
-<!--
-**eugeesp/eugeesp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst specialized in business intelligence, automation, and data-driven decision making.
 
-Here are some ideas to get you started:
+## 🔭 Currently working on
+- Building interactive dashboards (Power BI, Tableau)
+- Automating operational processes with Google Apps Script
+- SQL data modeling and analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Professional Focus
+- **Data Analysis:** SQL, Excel, Power BI, Tableau
+- **Automation:** Google Apps Script, Python
+- **Domains:** Financial markets, e-commerce, retail operations
+
+## 🚀 Featured Projects
+- [Business Intelligence Dashboard](link) - Power BI
+- [Market Analysis Dashboard](link) - Tableau  
+- [Financial Process Automation](link) - Google Apps Script
+
+## 📫 Let's connect
+- LinkedIn: [eugenioespinosa](https://www.linkedin.com/in/eugenioespinosa/)
+- Email: espinosa.c.eugenio@gmail.com
+
+---
+
+💡 *This profile also includes some past projects in web development and automation as I explore different areas of tech.*

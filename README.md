@@ -15,7 +15,7 @@ Data Analyst specialized in business intelligence, automation, and data-driven d
 ## 🚀 Featured Projects
 - [Business Intelligence Dashboard](link) - Power BI
 - [Market Analysis Dashboard](link) - Tableau  
-- [Financial Process Automation](link) - Google Apps Script
+- [Financial Process Automation](https://github.com/eugeesp/cashflow-automator) - Google Apps Script
 
 ## 📫 Let's connect
 - LinkedIn: [eugenioespinosa](https://www.linkedin.com/in/eugenioespinosa/)

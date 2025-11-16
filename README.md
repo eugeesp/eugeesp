@@ -17,6 +17,7 @@ I specialize in **business intelligence**, **data visualization**, and **process
 **Automation & Tools**
 - Google Apps Script
 - Git & GitHub
+- Jira, Notion, Hubspot (Basic)
 
 **Domain Expertise**
 - Financial markets (market structure, liquidity, volatility analysis)
